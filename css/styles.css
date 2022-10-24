@@ -54,9 +54,7 @@ margin:100px auto;
 }
 
 .me01{
-  position: relative;
 font-family: 'montserrat', sans-serif;
-bottom: 30px;
 }
 .me02{
 width:400px;
@@ -84,12 +82,12 @@ top: 50px;
 
 }
 .skill-img01{
-  margin-top: 10px;
-  margin-right:30px;
   width: 25%;
   float: left;
+  margin-right: 1rem;
 }
 .skill-img02{
+  width:25%;
   float: right;
   margin-left: 30px;
 }
@@ -136,8 +134,4 @@ margin:100px 0;
   background-image: -o-linear-gradient(top, #f2c4ec, #c984d1);
   background-image: linear-gradient(to bottom, #f2c4ec, #c984d1);
   text-decoration: none;
-}
-.help{
-  width: 300px;
-  margin:50px 40%;
 }
